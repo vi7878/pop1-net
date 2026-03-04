@@ -1,0 +1,14 @@
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/bin/Debug/net10.0/lab1
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/bin/Debug/net10.0/lab1.deps.json
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/bin/Debug/net10.0/lab1.runtimeconfig.json
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/bin/Debug/net10.0/lab1.dll
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/bin/Debug/net10.0/lab1.pdb
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.AssemblyInfoInputs.cache
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.AssemblyInfo.cs
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.csproj.CoreCompileInputs.cache
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.dll
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/refint/lab1.dll
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.pdb
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/lab1.genruntimeconfig.cache
+/home/vitalii/Документи/pop/lab1/net/lab1/lab1/obj/Debug/net10.0/ref/lab1.dll
