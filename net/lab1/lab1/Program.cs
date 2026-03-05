@@ -12,7 +12,8 @@ namespace ThreadDemo
             Console.Write("Type number of threads: ");
             if (!int.TryParse(Console.ReadLine(), out int numThreads))
             {
-                numThreads = 5; 
+                Console.WriteLine("Please enter a number of threads correctly. Buy! ");
+                numThreads = 0;
             }
 
             List<WorkerThread> workers = new List<WorkerThread>();
@@ -26,7 +27,7 @@ namespace ThreadDemo
                 var worker = new WorkerThread(i, i);
                 workers.Add(worker);
                 
-                events.Add((i - 1, rnd.Next(1000, 10001)));
+                events.Add((i - 1, rnd.Next(1000, 3001)));
                 
                 Thread t = new Thread(worker.Run);
                 threads.Add(t);
